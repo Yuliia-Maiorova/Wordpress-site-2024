@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://yuliia-maiorova.github.io/Wordpress-site-2024/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
